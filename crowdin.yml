@@ -2,5 +2,5 @@ files:
   - source: /*.*
     translation: /translations/%two_letters_code%/%original_file_name%
     translation_replace: {
-    "no" : "no-no"
+    'no' : 'no-no'
 }
