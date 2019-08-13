@@ -2,5 +2,4 @@ files:
   - source: /*.*
     translation: /translations/values-%android_code%/%original_file_name%
     translation_replace:
-      -en-rUS: ''
-}
+      -en-rUS: ""
