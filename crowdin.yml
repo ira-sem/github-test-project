@@ -1,5 +1,5 @@
 files:
-  - source: /*.*
-    translation: /translations/values-%android_code%/%original_file_name%
+  - source: /*.json
+    translation: /translations/%two_letters_code%/%original_file_name%
     translation_replace:
-      -en-rUS: ""
+      '-en-rUS': ''
