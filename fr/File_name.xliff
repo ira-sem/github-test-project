@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="8511" original="/Example.json" source-language="en" target-language="fr" datatype="plaintext" project-id="364341" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="3497415" resname="Key1">
+        <source>Apple and bananas</source>
+        <target state="needs-translation">Apple and bananas</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; Key1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497417" resname="Key2">
+        <source>Grape</source>
+        <target state="needs-translation">Grape</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; Key2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497419" resname="Key3">
+        <source>Banana</source>
+        <target state="needs-translation">Banana</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; Key3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497421" resname="Key4">
+        <source>Pear</source>
+        <target state="needs-translation">Pear</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; Key4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497423" resname="key5">
+        <source>Monday</source>
+        <target state="needs-translation">Monday</target>
+        <context-group purpose="information">
+          <context context-type="source"> -&gt; key5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497625" resname="Sensat">
+        <source>Sensation as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</source>
+        <target state="needs-translation">Sensation as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</target>
+        <context-group purpose="information">
+          <context context-type="source">Sensat</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
