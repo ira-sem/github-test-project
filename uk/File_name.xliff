@@ -42,4 +42,196 @@
       </trans-unit>
     </body>
   </file>
+  <file id="8517" original="/2846-club-bar.json" source-language="en" target-language="uk" datatype="plaintext" project-id="364341" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="3497431" resname="$.title">
+        <source>Club Bar</source>
+        <target state="needs-translation">Club Bar</target>
+        <context-group purpose="information">
+          <context context-type="source">$.title</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497433" resname="$.fields.cuisine.value">
+        <source>LOBBY &amp; APERITIF BAR </source>
+        <target state="needs-translation">LOBBY &amp; APERITIF BAR </target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.cuisine.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497435" resname="$.fields.attire.value">
+        <source>CASUAL ELEGANT </source>
+        <target state="needs-translation">CASUAL ELEGANT </target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.attire.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497437" resname="$.fields.description.value">
+        <source>A sophisticated lobby &amp; aperitif bar that welcomes both business and leisure guests. Surrounded by greenery and natural light, it offers a stylish setting for meetings or quiet pauses—indoors or on the terrace, with fine drinks and coastal ease.</source>
+        <target state="needs-translation">A sophisticated lobby &amp; aperitif bar that welcomes both business and leisure guests. Surrounded by greenery and natural light, it offers a stylish setting for meetings or quiet pauses—indoors or on the terrace, with fine drinks and coastal ease.</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.description.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497439" resname="$.fields.builder_builder_0_hero_subtitle.value">
+        <source>Gastronomy</source>
+        <target state="needs-translation">Gastronomy</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_0_hero_subtitle.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497441" resname="$.fields.builder_builder_0_hero_title.value">
+        <source>CLUB BAR</source>
+        <target state="needs-translation">CLUB BAR</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_0_hero_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497443" resname="$.fields.builder_builder_2_info_left_title.value">
+        <source>A TOAST TO BUSINESS &amp; LEISURE</source>
+        <target state="needs-translation">A TOAST TO BUSINESS &amp; LEISURE</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_left_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497445" resname="$.fields.builder_builder_2_info_text.value">
+        <source>&lt;p&gt;At Hotel Ivan, the lobby feels more like a quiet garden—open, light-filled, and softened by greenery. It adapts to your vibe: a morning coffee meeting, a pause between events, or an early evening drink with sea air drifting in from the terrace. The lobby bar pairs elegance with ease, offering Croatian wines, classic cocktails, and unhurried hospitality. By design, it also serves as an executive lounge—a calm corner for business travelers to meet, reflect, or simply relax.&lt;/p&gt;
+</source>
+        <target state="needs-translation">&lt;p&gt;At Hotel Ivan, the lobby feels more like a quiet garden—open, light-filled, and softened by greenery. It adapts to your vibe: a morning coffee meeting, a pause between events, or an early evening drink with sea air drifting in from the terrace. The lobby bar pairs elegance with ease, offering Croatian wines, classic cocktails, and unhurried hospitality. By design, it also serves as an executive lounge—a calm corner for business travelers to meet, reflect, or simply relax.&lt;/p&gt;
+</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_text.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497447" resname="$.fields.builder_builder_2_info_right_title.value">
+        <source>DETAILS</source>
+        <target state="needs-translation">DETAILS</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_right_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497449" resname="$.fields.builder_builder_2_info_details_0_title.value">
+        <source>Contact</source>
+        <target state="needs-translation">Contact</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_details_0_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497451" resname="$.fields.builder_builder_2_info_details_0_text.value">
+        <source>&lt;p&gt;&lt;a href=&quot;tel:0038522363951&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;+385 22 363 951&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:hotel.ivan@amadriapark.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hotel.ivan@amadriapark.com&lt;/a&gt;&lt;/p&gt;
+</source>
+        <target state="needs-translation">&lt;p&gt;&lt;a href=&quot;tel:0038522363951&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;+385 22 363 951&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:hotel.ivan@amadriapark.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hotel.ivan@amadriapark.com&lt;/a&gt;&lt;/p&gt;
+</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_details_0_text.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497453" resname="$.fields.builder_builder_2_info_details_1_title.value">
+        <source>Opening Hours</source>
+        <target state="needs-translation">Opening Hours</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_details_1_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497455" resname="$.fields.builder_builder_2_info_details_1_text.value">
+        <source>&lt;p&gt;7 am &amp;#8211; 12 am&lt;/p&gt;
+</source>
+        <target state="needs-translation">&lt;p&gt;7 am &amp;#8211; 12 am&lt;/p&gt;
+</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_details_1_text.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497457" resname="$.fields.builder_builder_2_info_links_0_link.value">
+        <source>MENU</source>
+        <target state="needs-translation">MENU</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_2_info_links_0_link.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497459" resname="$.fields.builder_builder_6_image_side_text_content_0_title.value">
+        <source>ELEGANT EVENINGS &amp; COASTAL SIPS</source>
+        <target state="needs-translation">ELEGANT EVENINGS &amp; COASTAL SIPS</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_6_image_side_text_content_0_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497461" resname="$.fields.builder_builder_6_image_side_text_content_0_text.value">
+        <source>&lt;p&gt;Visit our stylish aperitif bar for fine Croatian wines, premium spirits from around the world, and the soothing sounds of live music. A perfect setting for relaxed conversations.&lt;/p&gt;
+</source>
+        <target state="needs-translation">&lt;p&gt;Visit our stylish aperitif bar for fine Croatian wines, premium spirits from around the world, and the soothing sounds of live music. A perfect setting for relaxed conversations.&lt;/p&gt;
+</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_6_image_side_text_content_0_text.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497463" resname="$.fields.builder_builder_10_cross_banners_left_upper_title.value">
+        <source>YOU MAY ALSO LIKE</source>
+        <target state="needs-translation">YOU MAY ALSO LIKE</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_left_upper_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497465" resname="$.fields.builder_builder_10_cross_banners_right_upper_title.value">
+        <source>OFFERS TO ENJOY</source>
+        <target state="needs-translation">OFFERS TO ENJOY</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_right_upper_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497467" resname="$.fields.builder_builder_10_cross_banners_left_title.value">
+        <source>Piano bar Madonnina</source>
+        <target state="needs-translation">Piano bar Madonnina</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_left_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497469" resname="$.fields.builder_builder_10_cross_banners_right_title.value">
+        <source>Dining Escape</source>
+        <target state="needs-translation">Dining Escape</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_right_title.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497471" resname="$.fields.builder_builder_10_cross_banners_right_text.value">
+        <source>Indulge in a memorable stay while savoring gourmet meals crafted with the finest ingredients. </source>
+        <target state="needs-translation">Indulge in a memorable stay while savoring gourmet meals crafted with the finest ingredients. </target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_right_text.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497473" resname="$.fields.builder_builder_10_cross_banners_left_icons_0_caption.value">
+        <source>Tastes of the World</source>
+        <target state="needs-translation">Tastes of the World</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_left_icons_0_caption.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497475" resname="$.fields.builder_builder_10_cross_banners_left_icons_1_caption.value">
+        <source>smart casual</source>
+        <target state="needs-translation">smart casual</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_left_icons_1_caption.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497477" resname="$.fields.builder_builder_10_cross_banners_left_link.value">
+        <source>EXPLORE</source>
+        <target state="needs-translation">EXPLORE</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_left_link.value</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3497479" resname="$.fields.builder_builder_10_cross_banners_right_link.value">
+        <source>EXPLORE</source>
+        <target state="needs-translation">EXPLORE</target>
+        <context-group purpose="information">
+          <context context-type="source">$.fields.builder_builder_10_cross_banners_right_link.value</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
