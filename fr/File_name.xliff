@@ -41,8 +41,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3497625" resname="Sensat">
-        <source>Sensation as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</source>
-        <target state="needs-translation">Sensation as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</target>
+        <source>&lt;a href=&quot;/contacts/support&quot; target=&quot;_blank&quot;&gt;Sensation&lt;/g&gt;&lt;g id=&quot;2&quot;&gt; as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</source>
+        <target state="needs-translation">&lt;a href=&quot;/contacts/support&quot; target=&quot;_blank&quot;&gt;Sensation&lt;/g&gt;&lt;g id=&quot;2&quot;&gt; as “the process of detecting a stimulus (or some aspect of it) in the environment” is a first step of the transduction.</target>
         <context-group purpose="information">
           <context context-type="source">Sensat</context>
         </context-group>
